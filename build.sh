@@ -1,0 +1,1 @@
+clang -Wall -Wextra -pedantic -Werror sqroot.c main.c -o sqroot.out
